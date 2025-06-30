@@ -1,0 +1,6 @@
+﻿  Laboratornaya MOP 4 Korol Denis.cpp
+C:\Users\USER\source\repos\Laboratornaya MOP 4 Korol Denis\Laboratornaya MOP 4 Korol Denis.cpp(57,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\USER\source\repos\Laboratornaya MOP 4 Korol Denis\Laboratornaya MOP 4 Korol Denis.cpp(72,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\USER\source\repos\Laboratornaya MOP 4 Korol Denis\Laboratornaya MOP 4 Korol Denis.cpp(134,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\USER\source\repos\Laboratornaya MOP 4 Korol Denis\Laboratornaya MOP 4 Korol Denis.cpp(175,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  Laboratornaya MOP 4 Korol Denis.vcxproj -> C:\Users\USER\source\repos\Laboratornaya MOP 4 Korol Denis\Debug\Laboratornaya MOP 4 Korol Denis.exe
