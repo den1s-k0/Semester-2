@@ -1,0 +1,8 @@
+1: Ind: 2	Name: Netflix	Time: 15
+2: Ind: 3	Name: Spotify	Time: 10.5
+3: Ind: 4	Name: Игровой сервер	Time: 30
+4: Ind: 6	Name: VPN-сервис	Time: 8.7
+5: Ind: 7	Name: Онлайн-курсы	Time: 20
+6: Ind: 8	Name: Электронная почта	Time: 5.5
+7: Ind: 9	Name: Социальная сеть	Time: 18.2
+1: Ind: 1	Name: YouTube Premium	Time: 24.52: Ind: 2	Name: Netflix	Time: 153: Ind: 3	Name: Spotify	Time: 10.54: Ind: 4	Name: Игровой сервер	Time: 305: Ind: 5	Name: Облачное хранилище	Time: 12.36: Ind: 6	Name: VPN-сервис	Time: 8.77: Ind: 7	Name: Онлайн-курсы	Time: 208: Ind: 8	Name: Электронная почта	Time: 5.59: Ind: 9	Name: Социальная сеть	Time: 18.210: Ind: 10	Name: Музыкальная платформа	Time: 22.8
