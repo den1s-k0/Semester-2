@@ -22,7 +22,7 @@
 
 
 ### Индивидуальные задания:
-7. ![Натуральный логарифм](Laboratornaya%2002%20Korol%20Denis/Laboratornaya%2002-row.png)
+7. ![Laboratornaya%2002%20Korol%20Denis/Laboratornaya%2002-row.png](https://github.com/den1s-k0/Semester-2/blob/8ec186053190c4b28ebe578a6d574fc46383fdde/%D0%A0%D0%9A%D0%9F%D0%9F(%D0%A0%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%BA%D0%B0%20%D0%BA%D1%80%D0%BE%D1%81%D1%81%D0%BF%D0%BB%D0%B0%D1%82%D1%84%D0%BE%D1%80%D0%BC%D0%B5%D0%BD%D0%BD%D1%8B%D1%85%20%D0%BF%D1%80%D0%B8%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D0%B9)/Laboratornaya%20RKPP%2002-7%20Korol%20Denis/Laboratornaya%20RKPP%2002-7%20Korol%20Denis.png)
 
 ### Дополнительные задания:
 
